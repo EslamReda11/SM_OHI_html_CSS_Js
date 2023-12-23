@@ -1,0 +1,16 @@
+Database: students_ohi
+Table   : students_ohi_t
+
+ID
+First_Name
+Last_Name
+Date
+Address
+Phone
+Email
+Specialization
+Gender
+
+
+folder project --> F_OHI3
+file project   --> OHI.php

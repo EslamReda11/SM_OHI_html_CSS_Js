@@ -1,0 +1,4 @@
+local host server---> http://localhost/F_OHI3/OHI.php
+
+
+SQL ---> http://localhost/phpmyadmin/index.php?route=/table/structure&db=students_ohi&table=students_ohi_t
